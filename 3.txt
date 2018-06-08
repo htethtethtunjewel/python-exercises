@@ -1,0 +1,3 @@
+Hello 
+This is python exercise -20.
+You can see function.
