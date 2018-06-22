@@ -1,5 +1,1 @@
-print(f"Homework
-About
-if
-for 
-while")
+print(f"Homework About  if  for while")
