@@ -1,2 +1,1 @@
-Symbol Review
-Keywords and data types
+print("Srymbol Review Keywords and data types")
